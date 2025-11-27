@@ -2,16 +2,6 @@
 
 Hi everyone! We will be building a simple local Retrieval-Augmented Generation (RAG) workflow using LangChain + OpenAI / Azure OpenAI to interact with a PDF book. 🔍📘
 
-## Folder Structure
-```
-rag-demo/
-├── README.md              
-├── requirements.txt       
-├── pdf/                   
-└── src/
-    └── rag_workshop.ipynb
-```
-
 # Before starting please follow below steps 
 
 ## 1. Create & Activate a Virtual Environment
