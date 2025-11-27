@@ -10,10 +10,6 @@ From the project root (`rag-demo/`):
 python3 -m venv .venv
 source .venv/bin/activate 
 ```
-To deactivate later:
-```bash
-deactivate
-```
 
 ## 2. Install Dependencies
 ```bash
